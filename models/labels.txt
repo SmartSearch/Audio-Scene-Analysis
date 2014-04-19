@@ -1,0 +1,6 @@
+applause
+crowd
+music
+siren
+speaker
+traffic

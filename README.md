@@ -100,6 +100,17 @@ For example:
 $ python3 smart/audio/classify.py -m Data/models -e http://dusk.ait.gr/couchdb/audio_feed_example -n microphone1 audio.wav
 ```
 
+# Pre-trained models
+
+The _models_ directory contains pre-trained models files. The models were trained using more than 10 hours of audio data collected in the SMART project. The models supports the following audio classes:
+
+- Applause
+- Crowd
+- Music
+- Siren
+- Speaker
+- Traffic
+
 # License
 
 SMART FP7 - Search engine for MultimediA enviRonment generated contenT
