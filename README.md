@@ -116,6 +116,8 @@ The _models_ directory contains pre-trained models files. The models were traine
 A list of audio files and annotations is provided at [Samples/sample_list.txt](../master/samples/Samples_list.txt). Those sample were to generate the database for the article:
 *Zvi Kons, Orith Toledo-Ronen*: **Audio event classification using deep neural networks**. INTERSPEECH 2013.
 
+We were told that some of the audio files listed in this set are no longer avaliable. Since we don't know why they were removed, we can't redistribute them to other poeple. 
+
 # License
 
 SMART FP7 - Search engine for MultimediA enviRonment generated contenT
